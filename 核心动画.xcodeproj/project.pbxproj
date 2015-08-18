@@ -13,6 +13,7 @@
 		A510108F1B56502700DBE02A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A510108E1B56502700DBE02A /* Images.xcassets */; };
 		A51010921B56502700DBE02A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A51010901B56502700DBE02A /* LaunchScreen.xib */; };
 		A510109E1B56502700DBE02A /* ____Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A510109D1B56502700DBE02A /* ____Tests.swift */; };
+		A51010AA1B565E3C00DBE02A /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A51010A91B565E3C00DBE02A /* 1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		A51010971B56502700DBE02A /* 核心动画Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "核心动画Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A510109C1B56502700DBE02A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A510109D1B56502700DBE02A /* ____Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "____Tests.swift"; sourceTree = "<group>"; };
+		A51010A91B565E3C00DBE02A /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				A51010871B56502700DBE02A /* AppDelegate.swift */,
 				A51010891B56502700DBE02A /* ViewController.swift */,
+				A51010A91B565E3C00DBE02A /* 1.jpg */,
 				A510108B1B56502700DBE02A /* Main.storyboard */,
 				A510108E1B56502700DBE02A /* Images.xcassets */,
 				A51010901B56502700DBE02A /* LaunchScreen.xib */,
@@ -193,6 +196,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A510108D1B56502700DBE02A /* Main.storyboard in Resources */,
+				A51010AA1B565E3C00DBE02A /* 1.jpg in Resources */,
 				A51010921B56502700DBE02A /* LaunchScreen.xib in Resources */,
 				A510108F1B56502700DBE02A /* Images.xcassets in Resources */,
 			);
@@ -409,6 +413,7 @@
 				A51010A31B56502700DBE02A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A51010A41B56502700DBE02A /* Build configuration list for PBXNativeTarget "核心动画Tests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +422,7 @@
 				A51010A61B56502700DBE02A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
